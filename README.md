@@ -179,6 +179,13 @@ El modelo se utiliza como apoyo interpretativo para priorizar acciones de retenc
 
 ## Limitaciones
 
+## Cómo reproducirlo
+
+1. Clona el repositorio.
+2. Instala las dependencias: `pip install -r requirements.txt`
+3. Ejecuta los notebooks en orden, del `01` al `04`, desde la carpeta `notebooks/`.
+
+
 - No se dispone de una serie temporal real de asistencia mes a mes.
 - No hay datos reales de ingresos por socio; el cálculo económico usa una hipótesis de 30 €/mes.
 - Tres columnas fueron descartadas por corrupción de formato.
