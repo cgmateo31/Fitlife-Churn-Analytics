@@ -176,8 +176,11 @@ El modelo se utiliza como apoyo interpretativo para priorizar acciones de retenc
 - Power BI
 - GitHub
 
-
 ## Limitaciones
+- No se dispone de una serie temporal real de asistencia mes a mes.
+- No hay datos reales de ingresos por socio; el cálculo económico usa una hipótesis de 30 €/mes.
+- Tres columnas fueron descartadas por corrupción de formato.
+- El modelo identifica asociaciones, no causalidad demostrada.
 
 ## Cómo reproducirlo
 
@@ -186,7 +189,3 @@ El modelo se utiliza como apoyo interpretativo para priorizar acciones de retenc
 3. Ejecuta los notebooks en orden, del `01` al `04`, desde la carpeta `notebooks/`.
 
 
-- No se dispone de una serie temporal real de asistencia mes a mes.
-- No hay datos reales de ingresos por socio; el cálculo económico usa una hipótesis de 30 €/mes.
-- Tres columnas fueron descartadas por corrupción de formato.
-- El modelo identifica asociaciones, no causalidad demostrada.
