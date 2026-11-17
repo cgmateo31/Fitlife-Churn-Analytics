@@ -116,6 +116,8 @@ Los scripts SQL incluyen:
 - consultas con `SELECT`, `JOIN`, `GROUP BY` y subconsultas;
 - KPIs de negocio como tasa de abandono, vida media antes de baja, socios activos en riesgo, coste estimado y ahorro potencial.
 
+**Fuente:** [Gym customers features and churn](https://www.kaggle.com/datasets/adrianvinueza/gym-customers-features-and-churn). FitLife es una empresa ficticia usada con fines formativos.
+
 ## Dashboard Power BI
 
 Contiene tres páginas principales:
