@@ -2,7 +2,7 @@
 
 Análisis de abandono de socios de un gimnasio ficticio para identificar perfiles de riesgo y proponer acciones de retención basadas en datos.
 
-![Resumen ejecutivo](dashboard\screenshots\Resumen.png)
+![Resumen ejecutivo](dashboard\screenshots\Resumen_ejecutivo.png)
 
 ## Resultados clave
 
