@@ -2,7 +2,7 @@
 
 Análisis de abandono de socios de un gimnasio ficticio para identificar perfiles de riesgo y proponer acciones de retención basadas en datos.
 
-![Resumen ejecutivo](C:\Users\Carmen\Desktop\FitLife_Analytics\dashboard\screenshots\Resumen.png)
+![Resumen ejecutivo](dashboard\screenshots\Resumen.png)
 
 ## Resultados clave
 
@@ -126,8 +126,8 @@ Contiene tres páginas principales:
 2. **Factores de riesgo**: análisis por edad, contrato, clases, captación y pareja socia.
 3. **Recomendaciones**: interpretación del modelo y priorización de socios activos por riesgo.
 
-![Factores de riesgo](C:\Users\Carmen\Desktop\FitLife_Analytics\dashboard\screenshots\factores_riesgo.png)
-![Recomendaciones](C:\Users\Carmen\Desktop\FitLife_Analytics\dashboard\screenshots\recomendaciones.png)
+![Factores de riesgo](dashboard\screenshots\Factores_riesgo.png)
+![Recomendaciones](dashboard\screenshots\Recomendaciones.png)
 
 ## Técnica analítica aplicada
 
