@@ -1,6 +1,18 @@
 # FitLife - Análisis de abandono de socios
 
-Proyecto final del Bootcamp de Data Analytics centrado en el análisis del abandono de socios de un gimnasio ficticio llamado **FitLife**. El objetivo es identificar qué perfiles presentan mayor riesgo de baja y proponer acciones de retención basadas en datos.
+Análisis de abandono de socios de un gimnasio ficticio para identificar perfiles de riesgo y proponer acciones de retención basadas en datos.
+
+![Resumen ejecutivo](dashboard/screenshots/resumen_ejecutivo.png)
+
+## Resultados clave
+
+- Tasa global de abandono: **26,53%** (1.061 bajas sobre 4.000 socios).
+- Los contratos mensuales abandonan el doble: **42,32%**.
+- Coste estimado del abandono: **52.920 €** (hipótesis de 30 €/mes).
+
+**Herramientas:** Python · SQL · Power BI · scikit-learn
+
+**Informe completo:** [Informe_Final_FitLife.pdf](Informe_Final_FitLife.pdf)
 
 ## Objetivo del proyecto
 
@@ -112,7 +124,8 @@ Contiene tres páginas principales:
 2. **Factores de riesgo**: análisis por edad, contrato, clases, captación y pareja socia.
 3. **Recomendaciones**: interpretación del modelo y priorización de socios activos por riesgo.
 
-Capturas disponibles.
+![Factores de riesgo](dashboard/screenshots/factores_riesgo.png)
+![Recomendaciones](dashboard/screenshots/recomendaciones.png)
 
 ## Técnica analítica aplicada
 
